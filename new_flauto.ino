@@ -102,5 +102,5 @@ void loop() {
     currentFreq = requestedFreq;
   }
 
-  delay(10); //debounce)
+  delay(10); //debounce
 }
